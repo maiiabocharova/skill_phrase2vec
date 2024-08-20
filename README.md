@@ -1,2 +1,2 @@
-# skill_phrase2vec
-SkillPhrase2Vec
+# SkillPhrase2Vec
+Dataset introduced in the paper "LEARNING CONTEXT-AWARE PHRASE REPRESENTATIONS IN HR DOMAIN"
